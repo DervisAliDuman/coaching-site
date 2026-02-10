@@ -48,11 +48,14 @@ export default function SpecialOffer() {
                     {/* Price Comparison */}
                     <div className="flex items-center justify-center gap-8 mb-8 flex-wrap">
                         {/* Old Price */}
-                        <div className="relative">
+                        <div className="relative flex flex-col items-center">
                             <div className="text-6xl md:text-8xl font-bold opacity-60 line-through">
                                 1500₺
                             </div>
-                            <div className="absolute inset-0 flex items-center justify-center">
+                            <div className="text-lg opacity-60 font-semibold">
+                                / Saatlik
+                            </div>
+                            <div className="absolute inset-0 flex items-center justify-center top-[-10px]">
                                 <div className="w-full h-1 bg-red-500 transform -rotate-12" />
                             </div>
                         </div>
@@ -75,7 +78,7 @@ export default function SpecialOffer() {
                                 1000₺
                             </div>
                             <div className="text-xl md:text-2xl mt-2 font-semibold">
-                                / Aylık
+                                / Saatlik
                             </div>
                         </motion.div>
                     </div>

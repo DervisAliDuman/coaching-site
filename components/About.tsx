@@ -7,7 +7,7 @@ const features = [
     {
         icon: '🎓',
         title: 'Deneyimli Eğitim',
-        description: '15+ yıllık öğretmenlik tecrübesi'
+        description: '25+ yıllık öğretmenlik tecrübesi'
     },
     {
         icon: '🎯',

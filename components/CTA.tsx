@@ -91,7 +91,7 @@ export default function CTA() {
                             🎉 Özel Kampanya Hala Devam Ediyor!
                         </h3>
                         <p className="text-lg mb-6 opacity-95">
-                            1500₺ yerine sadece <span className="text-3xl font-bold">1000₺</span>
+                            Saatlik Ders Ücreti 1500₺ yerine sadece <span className="text-3xl font-bold">1000₺</span>
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a

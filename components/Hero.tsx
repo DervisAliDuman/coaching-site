@@ -51,7 +51,7 @@ export default function Hero() {
                             <span className="font-bold text-blue-800"> uzman eğitim</span>.
                             <br />
                             Ortaokuldan üniversite sınavlarına kadar
-                            <span className="font-bold text-orange-600"> her seviyede</span> başarı garantisi!
+                            <span className="font-bold text-orange-600"> her seviyede</span> eğitim!
                         </motion.p>
 
                         <motion.div
@@ -76,7 +76,7 @@ export default function Hero() {
                             className="mt-12 grid grid-cols-3 gap-6"
                         >
                             <div className="text-center">
-                                <div className="text-3xl md:text-4xl font-bold text-orange-500">15+</div>
+                                <div className="text-3xl md:text-4xl font-bold text-orange-500">25+</div>
                                 <div className="text-sm text-gray-600 mt-1">Yıl Deneyim</div>
                             </div>
                             <div className="text-center">
